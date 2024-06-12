@@ -1,0 +1,3 @@
+utiliser au maximum les setteurs dans les constructeurs de classe
+tester tous les arguments dans les setteurs appropriés
+créer un fichier (.txt ou .json) regroupant les noms et les couleurs des cartes et revoir la fonction createAllCards()
